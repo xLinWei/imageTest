@@ -34,4 +34,4 @@
 - 运行QT GUI、下载bit流、运行SDK工程
 - 点击"连接以太网"按钮，连接以太网
 - 点击"send"按钮选择发送的图片,查看运行效果
-<div align=center><img src=image\result.jpg width=70%></div>
+<div align=center><img src=image\result.jpg width=60%></div>
