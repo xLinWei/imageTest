@@ -22,10 +22,10 @@
 
 - 在Vivado新建工程，命名为imageTest
 - 新建block design，添加ZYNQ IP
-<div align=center><img src=image\bd.jpg width=60%></div>
+<div align=center><img src=image\bd.jpg width=50%></div>
 - Generat bitstream，然后导出SDK
 - 在SDK里新建工程，并选择LWIP模板
-<div align=center><img src=image\lwip.jpg width=60%></div>
+<div align=center><img src=image\lwip.jpg width=50%></div>
 - 将"image_test"目录内文件替换SDK工程内文件
 - 将myparam.h的H_Image、W_Image修改成测试图片的大小
 
